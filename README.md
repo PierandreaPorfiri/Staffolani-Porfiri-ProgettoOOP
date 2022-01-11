@@ -1,6 +1,6 @@
 # Staffolani-Porfiri-ProgettoOOP
 
-Progetto per l'esame di programmazione ad oggetti, Università Politecnica delle Marche, Anno 2021/2022
+Progetto per l'esame di programmazione ad oggetti, Università Politecnica delle Marche, Anno 2021/2023
 
 # Introduzione
 
